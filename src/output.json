@@ -1,0 +1,23 @@
+[
+  {
+    "model": "Nike Revolution 5",
+    "brand": "Nike",
+    "link": "https://www.nike.com/us/t/...",
+    "source": "Nike",
+    "valid": true
+  },
+  {
+    "model": "Nike Downshifter 10",
+    "brand": "Nike",
+    "link": "https://www.nike.com/us/t/...",
+    "source": "Nike",
+    "valid": true
+  },
+  {
+    "model": "Nike Flex Experience RN 9",
+    "brand": "Nike",
+    "link": "https://www.nike.com/us/t/...",
+    "source": "Nike",
+    "valid": true
+  }
+]

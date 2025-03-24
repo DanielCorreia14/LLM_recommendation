@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# LLM_recommendation
-=======
 # llm_recommendation
 
 A simple Python script that uses OpenAI’s GPT‑3.5‑turbo model to generate product recommendations via the ChatCompletion API.
